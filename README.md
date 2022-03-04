@@ -1,6 +1,7 @@
-# django-user-utils
-various user related tools for django:
+# django-user-helpers
+various admin related helpers for django:
 
+- enable a browsable admin log, filtered by user/modified object
 - enable password reset for admin users (through existing urls, provided by django.contrib.auth)
 - contrib.cms.password_reset, to enable password reset in django-cms's frontend toolbar
 - simplify user editing: hide email field, username is an emailadress. dont change any underlying mechanics provided by django.contrib.admin
