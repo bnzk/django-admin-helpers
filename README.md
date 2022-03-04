@@ -1,4 +1,4 @@
-# django-user-helpers
+# django-admin-helpers
 various admin related helpers for django:
 
 - enable a browsable admin log, filtered by user/modified object
